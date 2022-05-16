@@ -1,0 +1,7 @@
+include ':greendao'
+include ':greendao'
+include ':greendao'
+include ':greendao'
+include ':greendao'
+include ':app'
+rootProject.name = "SockWord"
